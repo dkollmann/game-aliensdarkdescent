@@ -1,13 +1,13 @@
 import * as path from 'path';
 
-export const GAME_ID = 'hogwartslegacy';
-export const GAME_NAME = "Hogwarts Legacy";
-export const GAME_FOLDER_STEAM = "Hogwarts Legacy";
-export const GAME_FOLDER_EPIC = "HogwartsLegacy";
-export const EXECUTABLE = "HogwartsLegacy.exe"; // path to executable, relative to game root
-export const UEPROJECTNAME = "Phoenix";  // the name of the game project
-export const EPIC_ID = "fa4240e57a3c46b39f169041b7811293";
-export const STEAM_ID = "990080";
+export const GAME_ID = 'aliensdarkdescent';
+export const GAME_NAME = "Aliens: Dark Descent";
+export const GAME_FOLDER_STEAM = "AliensDarkDescent";
+export const GAME_FOLDER_EPIC = "AliensDarkDescent";
+export const EXECUTABLE = "AliensDarkDescentGameSteam-Win64-Shipping.exe"; // path to executable, relative to game root
+export const UEPROJECTNAME = "ASF";  // the name of the game project
+export const EPIC_ID = "";
+export const STEAM_ID = "1150440";
 
 export const UE4SSMODURL = "https://www.nexusmods.com/hogwartslegacy/mods/942";
 
