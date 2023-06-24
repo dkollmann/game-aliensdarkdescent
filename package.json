@@ -1,14 +1,14 @@
 {
-  "name": "hogwartslegacy",
+  "name": "aliensdarkdescent",
   "version": "0.3.5",
-  "description": "Vortex Extension for Hogwarts Legacy",
-  "author": "lordvoldem0rt",
+  "description": "Vortex Extension for Aliens: Dark Descent",
+  "author": "lordvoldem0rt & dkollmann",
   "private": true,
   "main": "./dist/index.ts",
   "type": "module",
   "config": {
-    "extensionName": "Game: Hogwarts Legacy",
-    "issueTracker": "https://github.com/lordvoldem0rt/game-hogwartslegacy/issues"
+    "extensionName": "Game: Aliens: Dark Descent",
+    "issueTracker": "https://github.com/dkollmann/game-aliensdarkdescent/issues"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

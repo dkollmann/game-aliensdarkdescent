@@ -74,6 +74,6 @@ The load order section will also detect mods installed from the Steam Workshop a
 
 All notable changes to this project will be documented in this file. The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
-## [0.3.5.1] - 2023-06-23
+## [0.3.5] - 2023-06-23
 
 Initial release of the extension.

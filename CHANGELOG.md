@@ -14,7 +14,7 @@ To be announced
 
 ### Fixed
 
-## [0.3.5.1] - 2023-06-23
+## [0.3.5] - 2023-06-23
 
 Initial release of the extension.
 
