@@ -34,7 +34,7 @@ let monitor: LuaModsMonitor;
 
 const LOADORDER_FILE = "loadOrder.json";
 const VERSION_PATH = path.join(
-  "Phoenix",
+  "ASF",
   "Content",
   "Data",
   "Version",
